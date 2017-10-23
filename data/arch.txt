@@ -1,0 +1,1 @@
+1. 通过r_label去，hero的hero_name_list去匹配，共136个英雄

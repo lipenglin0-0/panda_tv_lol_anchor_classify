@@ -5,6 +5,5 @@ MONGO_TABLE = 'anchor'
 MONGO_HERO_NAME = 'hero'
 
 # dict
-import os
 MY_DICT = "D:\\code\\PyCharm\\pandaNLP\\data\\mydict.txt"
 
